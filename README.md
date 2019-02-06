@@ -18,6 +18,8 @@ We have 100,000 users in our database in an on premise environment and the requi
 
 ## Trigger Point: How the job will be triggered
 
+https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet
+
 Is it going to be something from on premise or on cloud?
 
 ## Establish connection between on premise to server for database connection

@@ -22,7 +22,9 @@ Is it going to be something from on premise or on cloud?
 
 ## Establish connection between on premise to server for database connection
 
-## 
+## Basic Interaction
+
+![Basic Interaction](https://github.com/vishaldwivedi/Azure_EmailWorkloadBatch/blob/master/Azure%20Batch.png)
 
 
 

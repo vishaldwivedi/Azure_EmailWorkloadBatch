@@ -10,3 +10,7 @@
 8) Connect with local database from Batch Task
 9) Send the email
 
+Problem Statement:
+
+We have 100,000 users in our database in an on premise environment and the requirement is to create a Batch which will read some attributes from the user database. It will then create PDF files customized for that user and send it through the mail.
+

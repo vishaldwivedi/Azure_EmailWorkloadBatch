@@ -4,8 +4,8 @@ We have 100,000 users in our database in an on premise environment and the requi
 
 # Steps for the Workload
 
-1) Create a Resource Group
-2) Create a Batch Account
+1) Create a Resource Group [Currently being done in Azure Portal Directly]
+2) Create a Batch Account [Currently being done in Azure Portal Directly]
 3) Create an Application
 4) Create a Pool [with fixed nodes size and auto scaling option based on formula]
 5) Create a Job

@@ -18,6 +18,14 @@ We have 100,000 users in our database in an on premise environment and the requi
 
 ## Trigger Point: How the job will be triggered
 
+### Consideration 1
+
+Use Azure Function to trigger the batch. The Azure functions have a time limit of 10 minutes maximum to eecute so not sure if that will be correct way.
+
+### Consideration 2
+
+Use Azure Durable Function [Need to evaluate approach here]
+
 https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet
 
 Is it going to be something from on premise or on cloud?

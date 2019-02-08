@@ -26,6 +26,10 @@ Use Timer triggered Azure Function to trigger the batch. The Azure functions hav
 
 Use Azure Durable Function [Need to evaluate approach here]
 
+### Consideration 3
+
+Use an on premise solution to create and trigger the job
+
 https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet
 
 Is it going to be something from on premise or on cloud?

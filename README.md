@@ -20,7 +20,7 @@ We have 100,000 users in our database in an on premise environment and the requi
 
 ### Consideration 1
 
-Use Azure Function to trigger the batch. The Azure functions have a time limit of 10 minutes maximum to eecute so not sure if that will be correct way.
+Use Timer triggered Azure Function to trigger the batch. The Azure functions have a time limit of 10 minutes maximum to eecute so not sure if that will be correct way.
 
 ### Consideration 2
 
